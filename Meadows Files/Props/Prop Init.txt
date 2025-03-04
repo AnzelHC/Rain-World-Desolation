@@ -1,0 +1,4 @@
+-["8M Harvester Claw", color(180,180,180)]
+[#nm:"8M Harvester Claw Base", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[2,4], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"8M Harvester Claw Bottom", #tp:"standard", #colorTreatment:"standard", #sz:point(1,2), #repeatL:[2,2], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"8M Harvester Claw Tip", #tp:"standard", #colorTreatment:"standard", #sz:point(1,2), #repeatL:[1,3], #tags:[], #layerExceptions:[], #notes:[]]

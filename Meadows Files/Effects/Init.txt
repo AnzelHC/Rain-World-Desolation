@@ -1,0 +1,3 @@
+-RWDS Meadows Plants
+[#nm:"Hydrangea Stems", #tp:"standardPlant", #vars:16, #pxlSz:point(50,60), #pickColor:1, #hasGrad:1, #randomFlip:0, #placeAmt:6, #szVar:[0.9, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
+[#nm:"White Wisteria", #tp:"hanger", #vars:10, #pxlSz:point(30,30), #pickColor:1, #hasGrad:1, #initRotVar: 40, #segmentRotVar:5, #segmentRotPull: 0.75, #segmentMoveAmt:10]

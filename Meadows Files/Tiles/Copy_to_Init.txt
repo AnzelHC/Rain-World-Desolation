@@ -1,0 +1,7 @@
+-["Desolation Tiles", color(40, 140, 80)]
+[#nm:"8M Harvester Leg", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"8M Harvester Leg Top", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"8M Harvester Tip", #sz:point(6,2), #specs:[1,-1, 1,1, 1,1, 1,1, 1,1, 1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"8M Harvester Tip End", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"8M Harvester Body", #sz:point(6,2), #specs:[-1,1, 1,1, 1,1, 1,1, 1,1, -1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,4], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"8M Harvester Body2", #sz:point(6,3), #specs:[-1,-1,1, 1,1,1, 1,1,1, 1,1,1, 1,1,1, -1,-1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,1,2,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp"]]
