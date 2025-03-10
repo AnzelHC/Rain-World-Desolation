@@ -1,0 +1,13 @@
+
+Subregion: Meadows
+Subregion: First Communications Center
+Room_Attr: 8M_A02: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,Centiwing-Like,DropBug-Like,
+Room_Attr: 8M_A03: Spider-Stay,BigSpider-Like,SpitterSpider-Like,
+Room_Attr: 8M_A04: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,Centiwing-Like,DropBug-Like,
+Room_Attr: 8M_A05: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,Centiwing-Like,DropBug-Like,
+Room_Attr: 8M_A06: Spider-Stay,BigSpider-Like,SpitterSpider-Like,
+Room_Attr: 8M_T01: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,Centiwing-Like,DropBug-Like,
+Room_Attr: 8M_T11: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,Centiwing-Like,DropBug-Like,
+Room_Attr: 8M_T18: Spider-Stay,BigSpider-Like,SpitterSpider-Like,
+Room_Attr: 8M_T20: Spider-Stay,BigSpider-Like,SpitterSpider-Like,
+Room_Attr: 8M_THA03: BigSpider-Like,SpitterSpider-Like,

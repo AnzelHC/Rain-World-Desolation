@@ -1,0 +1,60 @@
+ROOMS
+
+8M_A02 : 8M_A06, 8M_A03 : PERF_HEAVY
+8M_A03 : 8M_A02, 8M_AS01, 8M_A04
+8M_A04 : 8M_A03, 8M_T01
+8M_A05 : 8M_T18, 8M_T11 : PERF_HEAVY
+8M_A06 : DISCONNECTED, 8M_A02
+8M_AS01 : 8M_A03 : SHELTER
+8M_SSa01 : 8M_T16 : SHELTER
+8M_T01 : 8M_A04, 8M_T18
+8M_T11 : 8M_A05, 8M_THA03
+8M_T16 : 8M_THA04, 8M_SSa01, DISCONNECTED
+8M_T18 : 8M_T01, 8M_A05
+8M_T20 : 8M_THA03, 8M_THA05, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+8M_THA03 : 8M_T11, 8M_T20, 8M_TS01
+8M_THA04 : 8M_THA05, DISCONNECTED, 8M_T16 : PERF_HEAVY
+8M_TS01 : 8M_THA03 : SHELTER
+8M_THA05 : 8M_THA04, 8M_T20
+END ROOMS
+CREATURES
+
+8M_T20 : 19-Spider-11, 9-Spider-10
+LINEAGE : 8M_T20 : 17 : NONE-0.4, BigSpider-0.2, SpitterSpider-0.1, MotherSpider-0
+LINEAGE : 8M_T20 : 16 : BigSpider-0.1, SpitterSpider-0
+LINEAGE : 8M_T20 : 7 : NONE-0.4, BigSpider-0.2, SpitterSpider-0.2, MotherSpider-0
+LINEAGE : 8M_THA03 : 3 : NONE-0.3, BigSpider-0.3, SpitterSpider-0.3, MotherSpider-0
+LINEAGE : 8M_T18 : 2 : NONE-0.5, BigSpider-0.1, SpitterSpider-0
+8M_A03 : 4-Spider-6
+LINEAGE : 8M_A03 : 5 : BigSpider-0.2, SpitterSpider-0.1, MotherSpider-0
+LINEAGE : 8M_A03 : 3 : NONE-0.5, BigSpider-0.3, SpitterSpider-0.2, MotherSpider-0
+LINEAGE : 8M_A03 : 6 : NONE-0.4, BigSpider-0.3, SpitterSpider-0.2, MotherSpider-0
+LINEAGE : 8M_A06 : 4 : NONE-0.5, BigSpider-0.2, SpitterSpider-0
+LINEAGE : 8M_A06 : 5 : NONE-0.4, BigSpider-0.2, SpitterSpider-0
+OFFSCREEN : 0-Scavenger-12, 0-Scavenger-8, 0-Vulture, 0-KingVulture
+LINEAGE : OFFSCREEN : 0 : Vulture-0.5, Vulture-0.5, KingVulture-0
+LINEAGE : 8M_THA04 : 11 : BlueLizard-0.1, CyanLizard-0
+8M_T16 : 5-BigNeedleWorm, 5-SmallNeedleWorm-4, 4-CicadaA-2, 3-CicadaB-2
+8M_A05 : 15-WhiteLizard, 12-DropBug, 6-Centiwing-3, 8-DropBug
+8M_T01 : 4-SmallCentipede-{AlternateForm}-3
+8M_A04 : 11-WhiteLizard, 9-Centiwing-3, 7-DropBug, 3-DropBug, 4-Centiwing-3
+8M_A02 : 9-Centiwing-4, 16-BlueLizard, 13-WhiteLizard, 3-DropBug, 5-Centiwing-4
+LINEAGE : 8M_A02 : 2 : WhiteLizard-0.5, BlueLizard-0
+LINEAGE : 8M_A04 : 2 : WhiteLizard-0.5, BlueLizard-0.1, CyanLizard-0
+LINEAGE : 8M_A04 : 5 : BlueLizard-0.5, WhiteLizard-0.1, CyanLizard-0
+LINEAGE : 8M_A05 : 2 : WhiteLizard-0.5, BlueLizard-0.1, CyanLizard-0
+LINEAGE : 8M_A05 : 10 : WhiteLizard-0.5, BlueLizard-0.1, CyanLizard-0
+LINEAGE : 8M_A05 : 4 : BlueLizard-0.5, WhiteLizard-0
+LINEAGE : 8M_T01 : 5 : NONE-0.3, DropBug-0
+LINEAGE : 8M_A02 : 4 : BlueLizard-0.5, WhiteLizard-0.1, CyanLizard-0
+LINEAGE : 8M_A02 : 6 : WhiteLizard-0.5, BlueLizard-0
+LINEAGE : 8M_A02 : 7 : BlueLizard-0.5, WhiteLizard-0.1, CyanLizard-0
+LINEAGE : 8M_T11 : 3 : BlueLizard-0.5, WhiteLizard-0.1, CyanLizard-0
+LINEAGE : 8M_T11 : 2 : NONE-0.2, DropBug-0
+LINEAGE : 8M_T20 : 6 : NONE-0.4, BigSpider-0.1, SpitterSpider-0.1, MotherSpider-0
+LINEAGE : 8M_T20 : 5 : NONE-0.4, BigSpider-0.2, SpitterSpider-0.2, MotherSpider-0
+8M_THA04 : 5-DropBug, 3-BlueLizard, 4-WhiteLizard
+LINEAGE : 8M_THA04 : 7 : BlueLizard-0.1, CyanLizard-0
+8M_THA05 : 2-BlueLizard, 3-Centiwing, 5-CicadaA, 5-CicadaB-2
+LINEAGE : 8M_THA05 : 4 : NONE-0.4, DropBug-0
+END CREATURES
