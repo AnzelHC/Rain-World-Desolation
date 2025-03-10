@@ -1,0 +1,11 @@
+{
+  "id": "Meadows.Test",
+  "name": "Meadows Mod Test",
+  "version": "1.0",
+  "authors": "RWDS Team", 
+  "description": "This is a test",
+  "requirements": ["crs", "regionkit", "nacu.lunacy", "pom", "moreslugcats"],
+  "requirements_names": ["crs", "regionkit", "nacu.lunacy", "pom", "moreslugcats"],
+  "checksum_override_version": false
+  "tags:":["Regions"]
+}
